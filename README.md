@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **shindeonka182003@gmail.com**
 
-- 📄 Know about my experiences [[https://drive.google.com/file/d/1usT6vtsp1zpgP57ycutAJXTOZqESdVwl/view?usp=sharing](https://drive.google.com/file/d/1usT6vtsp1zpgP57ycutAJXTOZqESdVwl/view?usp=sharing)
+- 📄 Know about my experiences [(https://drive.google.com/file/d/1usT6vtsp1zpgP57ycutAJXTOZqESdVwl/view?usp=sharing)
 ](https://drive.google.com/file/d/1e6f8zd1vgTbqJ6HXCeAEqLznONP8T3FU/view?usp=drive_link)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
