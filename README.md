@@ -4,8 +4,7 @@
 - 📫 How to reach me **shindeonka182003@gmail.com**
 
 - 📄 Know about my experiences [(https://drive.google.com/file/d/1usT6vtsp1zpgP57ycutAJXTOZqESdVwl/view?usp=sharing)
-](https://drive.google.com/file/d/1u_2vZe0M_1Mw6lDRRurCURQDvtB_TbaE/view?usp=drive_link))
-<h3 align="left">Connect with me:</h3>
+]([https://drive.google.com/file/d/1u_2vZe0M_1Mw6lDRRurCURQDvtB_TbaE/view?usp=drive_link]3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/onkar-shinde18/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/onkar-shinde18/" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/onkarshinde7388/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/onkarshinde7388/" height="30" width="40" /></a>
