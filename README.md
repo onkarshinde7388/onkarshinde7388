@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Onkar Shinde</h1>
+<h1 align="center">I'm Onkar Shinde</h1>
 <h3 align="center">Full-Stack Software Developer</h3>
 
 - 📫 How to reach me **shindeonka182003@gmail.com**
