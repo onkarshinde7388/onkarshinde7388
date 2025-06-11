@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **shindeonka182003@gmail.com**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1mqBXyl5elGFHXUm16y2yq0YrFyFbKx8x/view?usp=drive_link">Onkar Shinde Resume </a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1xMb3KMJOigudNRT7WlVLX3VSLoMzEmMF/view?usp=sharing">Onkar Shinde Resume </a>
 
 <h3><p align="left">Connect with me:</h3>
 <p align="left">
